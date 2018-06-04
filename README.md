@@ -4,7 +4,6 @@ Small application with simple user-posts-comment relationship with notification 
 
 
 ## Instruction
----
 
 1. `git clone` the repo
 2. `bundle install`
