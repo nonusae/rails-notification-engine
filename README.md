@@ -1,24 +1,11 @@
-# README
+# Rails Notification
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Small application with simple user-posts-comment relationship with notification feature implement using Nofication engine.
 
-Things you may want to cover:
 
-* Ruby version
+## Instruction
+---
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. `git clone` the repo
+2. `bundle install`
+3. `rails db:migrate`, you may need to config the devise secret key.
